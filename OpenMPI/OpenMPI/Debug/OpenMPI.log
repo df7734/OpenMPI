@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\точка входа\университет\3 курс 2 семестр\розподілене та паралельне програмування\labs\openmpi\openmpi\main.cpp(6): warning C4068: unknown pragma
+d:\точка входа\университет\3 курс 2 семестр\розподілене та паралельне програмування\labs\openmpi\openmpi\main.cpp(26): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+  OpenMPI.vcxproj -> D:\Точка входа\Университет\3 курс 2 семестр\Розподілене та паралельне програмування\Labs\OpenMPI\Debug\OpenMPI.exe
